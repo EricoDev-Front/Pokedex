@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/signika/v12/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHJbG.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/signika/v12/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG5bG.ttf) format('truetype');
+}
